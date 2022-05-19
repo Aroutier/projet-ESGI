@@ -3,8 +3,5 @@ coucou
 bonjour
 salut
 hey
-yo
-hello
-hi
-wazzup
-le wazzzzzzzzup étant une référence au premier Scary Movie
+en espèrant que ça fonctionne bien :)
+
