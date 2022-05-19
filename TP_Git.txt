@@ -7,3 +7,4 @@ yo
 hello
 hi
 wazzup
+le wazzzzzzzzup étant une référence au premier Scary Movie
